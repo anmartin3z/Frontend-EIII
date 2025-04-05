@@ -5,12 +5,22 @@ import './css/bootstrap.min.css';
 import './css/colour-slate.css';
 import './css/theme-style.min.css';
 import App from './App';
+import Documentos from './Documentos';
 import reportWebVitals from './reportWebVitals';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+  </React.StrictMode>
+
+);
+
+const tramites = ReactDOM.createRoot(document.getElementById('tramites'));
+tramites.render(
+  <React.StrictMode>
+    <Documentos />
   </React.StrictMode>
 
 );
