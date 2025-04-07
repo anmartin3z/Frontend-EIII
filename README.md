@@ -1,6 +1,8 @@
 # FRONTEND-EIII
 Este proyecto buca emular el sisteme web de identidad electronica para agregar la opcion de solicitar el documento de vida y residencia
 
+Figma:`https://www.figma.com/design/Lf4QX0RVOUVLBqE630goef/TAREA?node-id=1-10&t=TxZRsVWzCPK9Xl3K-1`
+
 ## Requisitos
 - Node js 10.9.2
   
